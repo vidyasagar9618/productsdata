@@ -1,0 +1,10 @@
+GET http://localhost:3005/products/?month=08
+
+###
+GET http://localhost:3005/monthproducts/?month=11
+
+###
+GET http://localhost:3005/ranking/?month=01
+
+###
+GET http://localhost:3005/catergory/?month=05

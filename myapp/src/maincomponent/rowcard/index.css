@@ -1,0 +1,19 @@
+.soldimage{
+    height: 100px;
+    width: 100px;
+}
+.rowdata{
+    border-style: solid;
+    border-width: 2px;
+
+}
+
+styled-table th, .styled-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  .styled-table th {
+    text-align: left;
+    background-color: #f2f2f2;
+  }

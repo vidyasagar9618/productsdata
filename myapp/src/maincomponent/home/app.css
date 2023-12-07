@@ -1,0 +1,89 @@
+.searchContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.compnentcontainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.iconcontainer{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    background-color:white;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    box-sizing: border-box;
+    
+
+}
+.hii{
+text-align: center;
+}
+.styled-table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+styled-table th, .styled-table td {
+    border: 1px solid black;
+    padding: 8px;
+    
+  }
+
+.styled-table th {
+    text-align: center;
+    background-color: #f2f2f2;
+    border: 1px solid black;
+    
+
+
+  }
+
+.tabledata{
+    border-style: solid;
+    border-width: 2px;
+    margin-top: 30px;
+    width: 100%;
+}
+.options{
+    background-color: transparent;
+
+}
+.month{
+    background-color:burlywood ;
+    color: black;
+    padding-left:10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    padding-top:5px;
+    padding-bottom:5px;
+
+}
+.inputsearch{
+    background-color:burlywood;
+    color: black;
+    border-radius: 10px;
+    font-weight: bold;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.main-container{
+    background-color:lightblue;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.head{
+    align-self: center;
+}
